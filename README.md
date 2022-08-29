@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node and React**
 
-- 👨‍💻 All of my projects are available at [https://annabaginski.netlify.app/](https://annabaginski.netlify.app/)
+- 👨‍💻 Some of my websites are available at [https://annabaginski.netlify.app/](https://annabaginski.netlify.app/)
 
 - 📫 How to reach me **annabaginski.dev@gmail.com**
 

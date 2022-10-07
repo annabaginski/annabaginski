@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <a href="https://twitter.com/annaintech" target="blank"><img src="https://img.shields.io/twitter/follow/annaintech?logo=twitter&style=for-the-badge" alt="annaintech" /></a> </p>
 
-- 🌱 I’m currently learning **Node and React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Some of my websites are available at [https://annabaginski.netlify.app/](https://annabaginski.netlify.app/)
 

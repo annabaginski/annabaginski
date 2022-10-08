@@ -43,3 +43,21 @@ Here are some ideas to get you started:
 <h3 align=center> Socials </h3>
 
 <p align="center"> <a href="https://www.github.com/annabaginski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anna-baginski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AnnaInTech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<h3 align="center"> Latest Projects </h3> 
+
+<table align="center">
+  <tbody align="center">
+    <tr>
+      <td width="50%"><h3>Nail Salon Website</h3> 
+      <img alt="Photo" src="https://user-images.githubusercontent.com/93549623/194681581-d75c2723-07c3-400a-9904-28e5867db0cb.gif"/>
+      <p><b>HTML5 & CSS3</b> - A responsive website built with a clean and tidy layout for a local nail salon.</p>
+      </td>
+      <td width="50%"><h3>Groomers Website</h3> 
+      <img alt="Photo" src="https://user-images.githubusercontent.com/93549623/194682514-c940bf4f-a90d-44d0-89aa-b5997d23f0a1.gif"/>
+      <p><b>HTML5 & CSS3</b> - A fully responsive and adorable website to prove this is the only groomer you want to take your pup to.</p>
+      </td>
+    </tr>
+
+  </tbody>
+</table>

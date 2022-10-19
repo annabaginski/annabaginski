@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tbody align="center">
+  <tr>
+   <td width="50%"><h3>CovidConnect</h3> 
+      <img alt="Photo" src="https://user-images.githubusercontent.com/93549623/196798461-89b9520f-5cd7-4612-b3e5-bdd220b03b66.png"/>
+      <p><b>Tailwind,Node,Express,MongoDB</b> - A fullstack app connecting patients and healthcare workers.</p>
+      </td>
+  </tr>
     <tr>
       <td width="50%"><h3>Nail Salon Website</h3> 
       <img alt="Photo" src="https://user-images.githubusercontent.com/93549623/194681581-d75c2723-07c3-400a-9904-28e5867db0cb.gif"/>

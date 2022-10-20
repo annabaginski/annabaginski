@@ -52,7 +52,11 @@ Here are some ideas to get you started:
    <td width="50%"><h3>CovidConnect</h3> 
       <img alt="Photo" src="https://user-images.githubusercontent.com/93549623/196798461-89b9520f-5cd7-4612-b3e5-bdd220b03b66.png"/>
       <p><b>Tailwind,Node,Express,MongoDB</b> - A fullstack app connecting patients and healthcare workers.</p>
+      </td><td width="50%"><h3>Read Tracker</h3> 
+      <img alt="Photo" src="https://media.giphy.com/media/vzlc4Saigevx0i63hi/giphy.gif"/>
+      <p><b>Bootstrap,Node,Express,MongoDB</b> - A book tracking app where users can add what they are currently reading (book title and author); mark them as completed, and delete them.</p>
       </td>
+     
   </tr>
     <tr>
       <td width="50%"><h3>Nail Salon Website</h3> 

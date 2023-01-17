@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [Anna Baginski's Portfolio](http://annabaginski.netlify.app/)
 * ✉️  You can contact me at [annabaginski.dev@gmail.com](mailto:annabaginski.dev@gmail.com)
-* 🧠  I'm learning React and Tailwind
+* 🧠  I'm learning SQL and React
 * ⚡  I am a developer that has pivoted from being a Registered Nurse and am currently open to job opportunities
 
 <h3 align=center> Skills </h3>
